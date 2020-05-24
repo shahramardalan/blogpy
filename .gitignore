@@ -1,8 +1,18 @@
+#Windows Stuff
 .idea/
+
+#Virtual Env
 venv/
+blogpy/__pycache__
 
 #Database
 db.sqlite3
 
 #blog->migrations
 blog/migrations
+
+#Credentials
+.env
+
+#Static files
+files/

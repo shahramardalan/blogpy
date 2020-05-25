@@ -15,7 +15,8 @@ def validate_file_extension(value):
 
 class UserProfile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
-    avatar = models.FileField(upload_to='files/user_avatar', null=False, blank=False, validators=[validate_file_extension])
+    avatar = models.FileField(upload_to='files/user_avatar', null=False, blank=False,
+                              validators=[validate_file_extension])
     description = models.CharField(max_length=512, null=False, blank=False)
 
     def __str__(self):
@@ -24,7 +25,8 @@ class UserProfile(models.Model):
 
 class Article(models.Model):
     title = models.CharField(max_length=128, null=False, blank=False)
-    cover = models.FileField(upload_to='files/article_cover', null=False, blank=False, validators=[validate_file_extension])
+    cover = models.FileField(upload_to='files/article_cover', null=False, blank=False,
+                             validators=[validate_file_extension])
     content = RichTextField()
     created_at = models.DateTimeField(default=datetime.now, blank=False)
     category = models.ForeignKey('Category', on_delete=models.CASCADE)
@@ -36,8 +38,8 @@ class Article(models.Model):
 
 class Category(models.Model):
     title = models.CharField(max_length=128, null=False, blank=False)
-    cover = models.FileField(upload_to='files/category_cover', null=False, blank=False, validators=[validate_file_extension])
+    cover = models.FileField(upload_to='files/category_cover', null=False, blank=False,
+                             validators=[validate_file_extension])
 
     def __str__(self):
         return self.title
-

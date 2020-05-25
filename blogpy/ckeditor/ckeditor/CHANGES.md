@@ -618,7 +618,7 @@ Other Changes:
 * [#16958](https://dev.ckeditor.com/ticket/16958): Switched the default MathJax CDN provider for the [Mathematical Formulas](https://ckeditor.com/cke4/addon/mathjax) plugin from `cdn.mathjax.org` to [cdnjs](https://cdnjs.com/), due to closing of `cdn.mathjax.org` scheduled for April 30, 2017.
 * [#16954](https://dev.ckeditor.com/ticket/16954): Removed the paste dialog.
 * [#16982](https://dev.ckeditor.com/ticket/16982): Latest Safari now supports enhanced Clipboard API introduced in CKEditor 4.5.0.
-* [#17025](https://dev.ckeditor.com/ticket/17025): Updated [Bender.js](https://github.com/benderjs/benderjs) to 0.4.2.
+* [#17025](https://dev.ckeditor.com/ticket/17025): Updated [Bender.js](https://github.com/benderstatic/js/benderjs) to 0.4.2.
 
 ## CKEditor 4.6.2
 
@@ -877,7 +877,7 @@ Fixed Issues:
 Other Changes:
 
 * [#11725](https://dev.ckeditor.com/ticket/11725): Marked [`CKEDITOR.env.mobile`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_env.html#property-mobile) as deprecated. The reason is that it is no longer clear what "mobile" means.
-* [#13737](https://dev.ckeditor.com/ticket/13737): Upgraded [Bender.js](https://github.com/benderjs/benderjs) to 0.4.1.
+* [#13737](https://dev.ckeditor.com/ticket/13737): Upgraded [Bender.js](https://github.com/benderstatic/js/benderjs) to 0.4.1.
 
 ## CKEditor 4.5.3
 
@@ -903,7 +903,7 @@ Fixed Issues:
 Other Changes:
 
 * [#13637](https://dev.ckeditor.com/ticket/13637): Several icons were refactored.
-* Updated [Bender.js](https://github.com/benderjs/benderjs) to 0.3.0 and introduced the ability to run tests via HTTPs ([#13265](https://dev.ckeditor.com/ticket/13265)).
+* Updated [Bender.js](https://github.com/benderstatic/js/benderjs) to 0.3.0 and introduced the ability to run tests via HTTPs ([#13265](https://dev.ckeditor.com/ticket/13265)).
 
 ## CKEditor 4.5.2
 
@@ -1114,7 +1114,7 @@ Fixed Issues:
 
 Other Changes:
 
-* [#12844](https://dev.ckeditor.com/ticket/12844) and [#13103](https://dev.ckeditor.com/ticket/13103): Upgraded the [testing environment](https://ckeditor.com/docs/ckeditor4/latest/guide/dev_tests.html) to [Bender.js](https://github.com/benderjs/benderjs) `0.2.3`.
+* [#12844](https://dev.ckeditor.com/ticket/12844) and [#13103](https://dev.ckeditor.com/ticket/13103): Upgraded the [testing environment](https://ckeditor.com/docs/ckeditor4/latest/guide/dev_tests.html) to [Bender.js](https://github.com/benderstatic/js/benderjs) `0.2.3`.
 * [#12930](https://dev.ckeditor.com/ticket/12930): Because of licensing issues, `truncated-mathjax/` is now removed from the `tests/` directory. Now `bender.config.mathJaxLibPath` must be configured manually in order to run [Mathematical Formulas](https://ckeditor.com/cke4/addon/mathjax) plugin tests.
 * [#13266](https://dev.ckeditor.com/ticket/13266): Added more shades of gray in the [Color Dialog](https://ckeditor.com/cke4/addon/colordialog) window. Thanks to [mizafish](https://github.com/mizafish)!
 

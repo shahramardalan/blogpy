@@ -2,7 +2,7 @@ SCAYT Plugin for CKEditor 4
 =====================
 
 SpellCheckAsYouType (SCAYT) instantly underlines spelling and grammar errors while users type. To correct spelling or grammar error, a user simply needs to right-click the marked word to select from suggested corrections.
-![SCAYT Plugin for CKEditor 4 View](https://webspellchecker.com/app/images/scayt_plugin_for_ckeditor4.png)
+![SCAYT Plugin for CKEditor 4 View](https://webspellchecker.com/app/static/images/scayt_plugin_for_ckeditor4.png)
 
 This plugin brings the multi-language SCAYT functionality into CKEditor 4. It is integrated by default starting with [Standard Package of CKEditor 4](https://ckeditor.com/ckeditor-4/download/). You can find it on the CKEditor 4 toolbar panel under the ABC button (Enable SCAYT).
 

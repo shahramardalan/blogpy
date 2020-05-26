@@ -79,9 +79,9 @@ Miscelleanous improvements:
 
 [cr]: http://highlightjs.readthedocs.org/en/latest/css-classes-reference.html
 [api docs]: http://highlightjs.readthedocs.org/en/latest/api.html
-[variants]: https://groups.google.com/d/topic/highlightstatic/js/VoGC9-1p5vk/discussion
-[beginKeywords]: https://github.com/isagalaev/highlight.static/js/commit/6c7fdea002eb3949577a85b3f7930137c7c3038d
-[php-html]: https://twitter.com/highlightstatic/js/status/408890903017689088
+[variants]: https://groups.google.com/d/topic/highlightstatic/static/js/VoGC9-1p5vk/discussion
+[beginKeywords]: https://github.com/isagalaev/highlight.static/static/js/commit/6c7fdea002eb3949577a85b3f7930137c7c3038d
+[php-html]: https://twitter.com/highlightstatic/static/js/status/408890903017689088
 
 [Carlo Kok]: https://github.com/carlokok
 [Bram de Haan]: https://github.com/atelierbram
@@ -147,7 +147,7 @@ P.S. The historical commit is [here][1] for the record.
 
 [Jeremy Hull]: https://github.com/sourrust
 [Oleg Efimov]: https://github.com/sannis
-[1]: https://github.com/isagalaev/highlight.static/js/commit/f3056941bda56d2b72276b97bc0dd5f230f2473f
+[1]: https://github.com/isagalaev/highlight.static/static/js/commit/f3056941bda56d2b72276b97bc0dd5f230f2473f
 
 
 ## Version 7.4
@@ -263,7 +263,7 @@ A Summer crop:
   fixes, including a pretty significant refactoring of Ruby.
 
 [mf]: https://github.com/mfornos
-[tm]: http://jmblog.github.com/color-themes-for-highlightstatic/js/
+[tm]: http://jmblog.github.com/color-themes-for-highlightstatic/static/js/
 [tm0]: https://github.com/ChrisKempson/Tomorrow-Theme
 [cd]: https://github.com/caseman
 [amd]: http://requirejs.org/docs/whyamd.html
@@ -309,7 +309,7 @@ Overall highlight.js currently supports 51 languages and 20 style themes.
 
 [node.js]: http://nodejs.org/
 [api]: http://softwaremaniacs.org/wiki/doku.php/highlight.js:api
-[p]: http://softwaremaniacs.org/blog/2012/05/10/http-and-json-in-highlight-static/js/en/
+[p]: http://softwaremaniacs.org/blog/2012/05/10/http-and-json-in-highlight-static/static/js/en/
 [pojoaque]: http://web-cms-designs.com/ftopict-10-pojoaque-style-for-highlight-js-code-highlighter.html
 [ao]: https://github.com/angelolloqui
 [ar]: https://github.com/raleksandar
@@ -346,7 +346,7 @@ from all this activity:
 [lm]: http://grigio.org/
 [ak]: https://github.com/geekpanth3r
 [es]: https://github.com/bolknote
-[log]: https://github.com/isagalaev/highlight.static/js/commits/
+[log]: https://github.com/isagalaev/highlight.static/static/js/commits/
 
 
 ## Version 6.1 — Solarized
@@ -554,7 +554,7 @@ Also in this version:
 - Yura Zaripov has sent two styles: Brown Paper and School Book.
 - Oleg Volchkov has sent a definition for [Parser 3][p3].
 
-[1]: http://softwaremaniacs.org/forum/highlightstatic/js/6612/
+[1]: http://softwaremaniacs.org/forum/highlightstatic/static/js/6612/
 [p3]: http://www.parser.ru/
 [vp]: http://vasily.polovnyov.ru/
 [vd]: http://dolzhenko.blogspot.com/
@@ -632,7 +632,7 @@ Other changes:
 - better auto-detection of C++ and PHP
 - HTML allows embedded VBScript (`<% .. %>`)
 
-[f]: http://softwaremaniacs.org/forum/highlightstatic/js/
+[f]: http://softwaremaniacs.org/forum/highlightstatic/static/js/
 [voldmar]: http://voldmar.ya.ru/
 [mel]: http://en.wikipedia.org/wiki/Maya_Embedded_Language
 [drake]: http://drakeguan.org/

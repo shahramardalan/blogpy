@@ -3,7 +3,7 @@ WebSpellChecker Dialog Plugin for CKEditor 4
 
 WebSpellChecker Dialog (WSC Dialog) provides distraction-free proofreading, checking the whole text’s spelling and grammar on-click in a separate pop-up window.
 
-![WSC Dialog Plugin for CKEditor 4 View](https://webspellchecker.com/app/static/images/wsc_dialog_plugin_for_ckeditor4.png)
+![WSC Dialog Plugin for CKEditor 4 View](https://webspellchecker.com/app/static/static/images/wsc_dialog_plugin_for_ckeditor4.png)
 
 This plugin brings the multi-language WSC Dialog functionality into CKEditor 4. It is integrated by default starting with [Standard Package of CKEditor 4](https://ckeditor.com/ckeditor-4/download/). You can find it on the CKEditor 4 toolbar panel under the ABC button (Check Spelling).
 

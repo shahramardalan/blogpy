@@ -348,9 +348,9 @@
 
             // marker url
             if ( winWidth > 480 ) {
-                marker_url = 'static/images/icon-location@2x.png';
+                marker_url = 'static/static/images/icon-location@2x.png';
             } else {
-                marker_url = 'static/images/icon-location.png';
+                marker_url = 'static/static/images/icon-location.png';
             }
 
             // map style
